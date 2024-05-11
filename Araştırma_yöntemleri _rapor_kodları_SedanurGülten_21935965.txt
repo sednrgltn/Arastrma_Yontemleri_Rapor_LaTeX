@@ -1,0 +1,113 @@
+
+SEDANUR GÜLTEN 21935965
+
+\documentclass[a4paper]{article}
+
+\usepackage[turkish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[colorinlistoftodos]{todonotes}
+
+\title{HACETTEPE ÜNİVERSİTESİ\\
+İST480 ARAŞTIRMA YÖNTEMLERİ \\
+        Makale Rapor Ödevi
+}
+
+
+\author{21935965 Sedanur Gülten}
+
+\date{Mayıs 2023}
+
+\begin{document}
+\maketitle
+
+
+
+\section{Makalenin Yayınlandığı Dergi Hakkında Genel Bilgiler}
+\label{sec:Bilgiler}
+
+\textbf{Dergi Adı:} Atatürk Üniversitesi Güzel Sanatlar Enstitüsü Dergisi\\
+\textbf{Dergi İndeksi:} Tr Dizin, EBSCO\\
+\textbf{Dergi Hakkında:} Atatürk Üniversitesi Güzel Sanatlar Enstitüsü Dergisi Yayım İlkeleri (Journal of  the Fine Arts Institutethe Principal of the Publication) 1995   den   beri   ISSN  1300-9206 Süreli yayınlar numarası ile yılda iki kez yayımlanmakta olan Atatürk Üniversitesi Güzel Sanatlar Enstitüsü Dergisi,ulusal hakemli ve bilimsel içerikli resmi yayın organıdır. Derginin yayın dili Türkçe ve İngilizce olup, sosyal bilimlerin farklı alanlarında yapılmış bilimsel nitelikli araştırma yazıları yayımlanır.\\
+\textbf{Derginin erişim linki:}https://dergipark.org.tr/tr/download/article-file/1081674
+
+\section{Makale İncelemesi}
+\label{sec:Makale}
+
+\subsection{Makale Hakkında Genel Bilgiler}
+\textbf{Makale Adı:} Sanat Galerisi Ziyaretlerinde Gerçekleştirilen Aktif Öğrenme 
+Etkinliklerinin 4-6 Yaş Arası Çocukların Görsel Algılarına 
+Etkisi \\
+\textbf{Yazarlar:} Oğuz Dilmaç, Eyüp İnal\\
+\textbf{Makale Dili:} Türkçe\\
+\textbf{Makalenin Konusu:} Araştırmanın konusu erken yaşlarda (4-6) çocukların sanat galerisinde bir grubun aktif olarak etkinliğe katılmaları ve diğer grubun katılmaması ile dört hafta boyunca durumlarının takibi sonucunda varılan sonuçlardır\\
+\textbf{Makalenin Amacı:} Çocukların (4-6 yaş), sanat etkinliklerindeki aktif öğrenimi ile Frostig görsel algı testinin,algılarına etkisini incelemek amaçlanmıştır. \\
+\textbf{Makalenin Önemi:}Bu makale için algı kelimesi önemli bir yere sahiptir. Algı, dış dünyadan alınan bilgileri beyinde değerlendirip yorumlanması neden-sonuç ilişkisi kurulması ve bir sonuca varılmasıdır. Yani biz ne kadar erken yaşlarda algı üzerine çalışmış olursak, dış dünya ile deneyimlerimizde   sonuca varmamız o kadar kolaylaşır. Erken yaşlardan itibaren çocukların önce aile içinde başlayan öğrenme süreçleri, algı- duyu organlarının kullanımı ile gerçekleşir, algılama gelişmesi en müsait olunan yaşlarda (4 yaşından itibaren), özellikle görsel algıların, daha açık hale gelmesi ve güzel sonuçlar vermesi büyük oranda; yaratıcı, özgür, aktif öğrenme biçimiyle, bir bakıma sanatsal etkinliklerle birlikte gerçekleşir. Aktif öğrenme, sınıf ortamında öğreticinin aktif durumda sunduğu konuları veya bilgileri öğrencilerin pasif bir biçimde bilgileri ezbere aldığı geleneksel öğretimin tam tersidir[1]. Yani durumla kendisinin ilgilenmesi, kavraması, araştırması, çözüm üretmesi, harekete geçmesine teşvik eder. Arnheim, algının kavramanın temeli olduğunu dile getirmiş ve algıyı, görsel sanatlar ve görsel algılama alanlarıyla ilişkilendirmiştir. Yani yaşantımızda önemli bir yeri olan algılamanın geliştirilmesi için sanat eğitiminin çok önemli bir yeri ve sonucu olduğunu dile getirmiştir[2]. Görsel algısında sorun olan çocuklar, kendi yaşlarına göre hem sosyal anlamda hem fiziksel anlamda kendilerini daha özgüvensiz hissedebilirler ve okul hayatında görsel algısı gelişmiş çocuklara nispeten daha başarısız olabilirler. Bu durumun fark edilip önlem alınması ile değiştirilmesi çocuğun ileri yaşları için önemli bir yere sahiptir, araştırmanın önemi de buradan anlaşılabilir. \\
+
+\emph{Anahtar kelimeler:} Görsel algı, görsel algının gelişmesinde aktif öğrenimin etkisi, görsel algı durumu belirlenmesi
+
+\subsection{Makalenin Metodolojisi}
+\textbf{Örnekleme Planı:}\\
+Kitle: Bu makale, Erzurum ili Palandöken ilçesi Millî Eğitim Bakanlığı’na bağlı Zübeyde Hanım Anaokulu içinde, anasınıfına devam eden 4-6 yaş aralıgında bulunan öğrenciler üzerinden yapılmıştır. \\
+Örneklem: Zübeyde Hanım Anaokulu içinde toplamda 30 öğrenci araştırmaya alınmış, 15’i deney 15’i kontrol grubu olmak üzere, iki grupta değerlendirmeler yapılmıştır.\\
+Örnekleme Yöntemi: Kota örneklemesi\\
+\\
+\textbf{Veri Toplama Yöntemi:} Veri toplama aracı olarak Frostig Gelişimsel Görsel Algı testi kullanılmıştır. Öğrenciler üzerinden çalışılmıştır.\\
+\textbf{Veri Toplama Süresi:} Araştırma süreci 4 hafta sürmüştür.\\
+\textbf{Uygulanan Materyaller  ve Yöntemler:}
+Frostig Gelişimsel Görsel Algı Testinde kullanılan materyaller; 
+üçgen, kare, artı işareti, yıldız şekli, ay, oval, çember gibi şekillerden oluşan örnek kartlar ve renkli kalemlerden oluşmaktadır (mavi, kırmızı, kahverengi, sarı ve yeşil renklerde kalem ve kurşun kalem).\\
+
+Toplam beş alt testten oluşmaktadır ve 72 soru bulunmaktadır. 
+Soruların maksimum puanları parantez içinde verilmiştir.Birinci alt test Göz-Motor Koordinasyon (16 Soru- 28 puan), ikinci test alt test: Şekil-Zemin İlişkisi (8 Soru- 20 puan), Üçüncü alt test: Şekil Değişmezliği/Sabitliği (32 soru-17 puan), dördüncü alt test: Mekânda ki Pozisyon/ Mekân-Konum Algısı (8 soru-8 puan), beşinci alt test Alt Test: Mekân İlişkilerinin Algılanması (8 soru-8 puan) \\
+\textbf{Deneysel Süreç:}
+
+Yapılan araştırmada ele alınan 30 kişi kontrol ve deney grubu olarak ayrılmış. Kontrol grubuna aktif etkinlik yapılmadan, deney grubuna aktif sanat etkinlikleri yaptırılmıştır. Deney ve kontrol grubuna ön test olarak Frostig görsel algı testi uygulanmıştır. Deneysel süreç dört hafta sürmüştür ve bu süreçte yapılan uygulama aşağıda sıralanmıştır. Dört hafta sonunda da yine deney ve kontrol grubuna son test olarak tekrar Frostig görsel algılarına etkisini yapılan testlerin puanları ile veri analizi yaparak incelenmiştir.
+Dört hafta sırasıyla; “Nesi var?”, “Ben kimim?”, “Tombala”, “Hazineyi Bul” etkinliklerine yer verilmiştir.\\
+\\
+
+Parametrik testlerden iki grubun karşılaştırılması sonucunda bağımsız örneklemler için t testi kullanılmış aynı zamanda uygulanan bu gruba ait iki ölçüm verilerine dayanarak puan ortalamalar arasındaki farklılığın belirlenmesinde bağımlı örneklemler için t-testi ve ön test-son test puanları arasında anlamlı farklılık olup olmadığını belirleyebilmek amacıyla Tek Faktörlü Kovaryans Analizi’nin (One Factor Analysis of CovarianceANCOVA) kullanılması uygun görülmüştür.
+
+\subsection{Sonuç ve Tartışma:} 
+
+Araştırmada deney ve kontrol gruplarına ilişkin yapılan bağımsız örneklemler için t-testi analiz sonucuna göre grupların son test puan ortalamaları arasında anlamlı farklılığa rastlandığı görülmüştür. Grupların son test puan ortalamaları incelendiğinde farklılığın deney grubu lehine olduğu anlaşılmaktadır.Bu durum uygulanan programın deney grubu lehine etkili olduğunun göstergesidir. Yani normal eğitimine devam eden çocuklar, faliyette bulunan çocuklara göre daha az son test puanı almışlardır. Deney grubu görsel algı konusunda daha avantajlıdır.\\
+
+Araştırmada kontrol grubunun ön test ve son test puanları arasında
+farklılık olup olmadığına ilişkin yapılan bağımlı 
+örneklemler için t-testi analizi sonucuna göre grubun ön test ve son test puan ortalamaları arasında anlamlı bir 
+farklılığa rastlanmadığı görülmüştür. Bu durum sanat galerisi ziyaretinde gerçekleştirilen aktif öğrenme etkinliğine 
+katılmayan kontrol grubu öğrencilerinin okulun normal eğitim programına devam ederken görsel algı 
+gelişimlerinde herhangi bir değişikliğe rastlanmadığını göstermektedir.\\ 
+
+Araştırmada Frostig Görsel Algı Testi uygulama sonrası verilerin çözümlenmesinden elde edilen sonuçlara göre 
+uygulanan programın genel anlamda deney grubunun ön test ve son test veri analizlerinde anlamlı farklılıklar 
+ortaya çıkardığı tespit edilmiştir.
+Bu bağlamda uygulanan programın çocukların görsel algı gelişimleri üzerinde 
+etkili olduğu düşünülmektedir.
+\\
+
+Çocuklara küçük yaşlardan itibaren duyularını kullanmalarını,yaratıcılıklarını arttırmalarını sağlayacak aktiviteler ve sanatsal faaliyetler ile büyütmek, sonraki yaşları için bu aktivitelerle büyümeleyenlere göre, görsel algılarında ve genel anlamda öğrenim becerilerinde avantaj sağlayacaktır.\\
+
+\subsection{Makale Hakkında Görüşler}
+
+\textbf{Makalenin Olumlu Yönleri:}
+
+Makalede normallik varsayımları gözetilerek analiziler yapılmıştır. Deney grubunda ilk ve son test puanları bağımlı t testi, kontrol grubunda ilk ve son puanları bağımlı t testi ile kontrol edip, deney ve kontrol grubunun birbirinden bağımsız olmasıyla son test puanları bağımsız t testi ile analiz edilmiştir ve bunların arasındaki ilişkiyi de ANCOVA analizi ile yapılmıştır.
+Verilerin toplanması, analizi, süreci hakkında detaylı bilgiler verilmiştir.\\
+\textbf{Makalenin Olumsuz Yönleri:}
+
+Çalışılan öğrenci sayısının daha fazla olması yapılan araştırma sonucunu genele yayarak yorumlamak için daha yararlı olacaktır. Otuz öğrenci sayısı bu genellemeyi yapmak için azdır.\\
+
+\begin{thebibliography}{9}
+\bibitem{nano3}
+    Meyers, C.,  Jones, T. B. (1993).
+    \emph{Promoting active learning: strategies for the college classroom.}
+    San Francisco: Jossey-Bass Publishers.
+\bibitem{nano2}
+  Sahasrabudhe,
+   P. (2006).
+  Design for learning through the arts,
+  \emph{International Journal of Education Through Art},
+  11(2), 77-84.  
+\end{thebibliography}
+
+\end{document}
